@@ -1,6 +1,6 @@
 # h4nszizworks-dot.github.io
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -333,8 +333,5 @@ SUBMIT SOCA REPORT
 </body>
 </html>
 
-    <button type="submit">
-        Submit SOCA Report
-    </button>
 
-</form>
+
